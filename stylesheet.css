@@ -6,6 +6,10 @@
     height: 100vh;
 }
 
+table{
+    font-size: 14px;
+}
+
 body{
     overflow-x: hidden;
 }
